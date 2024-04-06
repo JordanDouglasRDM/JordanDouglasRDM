@@ -67,7 +67,7 @@
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Status Github</h3>
 <br>
 
-![Snake animation](https://raw.githubusercontent.com/jordandouglasrdm/output/dist/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/jordandouglasrdm/output/github-contribution-grid-snake.svg)
 <div align="center">
   <picture>
 	  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
