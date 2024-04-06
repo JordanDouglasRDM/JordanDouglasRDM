@@ -16,7 +16,7 @@
 
 <br>
 
-- Graduando em Análise e Desenvolvimento de Sistemas (4/6)
+- Graduando em Análise e Desenvolvimento de Sistemas (5/6)
 - Desenvolvo aplicações web nas horas vagas
 - Buscando oportunidades desafiadoras
 - Amante da inovação e tecnologia
