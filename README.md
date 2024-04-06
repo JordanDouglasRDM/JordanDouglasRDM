@@ -69,7 +69,11 @@
 
 ![Snake animation](https://github.com/jordandouglasrdm/jordandouglasrdm/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordandouglasrdm&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="jordandouglasrdm"/>
+  <picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+	  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </div>
 
 </a>
