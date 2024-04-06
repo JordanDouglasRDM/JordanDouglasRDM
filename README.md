@@ -65,15 +65,12 @@
 -----
 
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Status Github</h3>
-<br>
-
-![Snake animation](https://raw.githubusercontent.com/jordandouglasrdm/output/github-contribution-grid-snake.svg)
 <div align="center">
-  <picture>
-	  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-	  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jordandouglasrdm/jordandouglasrdm/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jordandouglasrdm/jordandouglasrdm/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jordandouglasrdm/jordandouglasrdm/output/github-contribution-grid-snake.svg">
+    </picture>
 </div>
 
 </a>
